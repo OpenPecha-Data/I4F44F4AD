@@ -1,0 +1,16 @@
+id: I4F44F4AD
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:56:24.215913
+last_modified: 2023-02-08 14:56:24.216007
+source_metadata:
+  title: Bodhisatvacaryānirdeśa
+  language: en
+bases:
+  8A62:
+    base_file: 8A62.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
